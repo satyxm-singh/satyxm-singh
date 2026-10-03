@@ -59,7 +59,10 @@ practical software solutions and exploring modern technologies.
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva,msword,msexcel" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+**Other Tools:** Canva • Microsoft Word • Microsoft Excel
 </p>
 
 ---
