@@ -59,7 +59,7 @@ practical software solutions and exploring modern technologies.
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman," />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva,msword, msexcel," />
 </p>
 
 ---
