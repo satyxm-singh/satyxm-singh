@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering student** at 
+I'm a **B.Tech Computer Science Engineering student** at
 **Vivekananda Global University, Jaipur**, passionate about building 
 practical software solutions and exploring modern technologies.
 
